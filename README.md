@@ -1,4 +1,4 @@
-## Merlin Kenya User Inactivity Analysis Dashboard
+## T.A Analysis Dashboard
 This repository contains a Python data analysis script designed to process user activity logs (specifically for Merlin Kenya users). 
 The tool generates insights regarding user inactivity, reactivation timelines, and role-based trends.
 It outputs a visual dashboard (PNG) and detailed statistical summaries (CSV) to assist in operational decision-making.
