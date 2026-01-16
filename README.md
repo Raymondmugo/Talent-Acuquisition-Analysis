@@ -20,7 +20,7 @@ user.sector_idIdentifier for the operational sector.nameName of the station or b
 Place your data file in the project directory.Update the file path: 
 Open the script and modify the file_path variable to point to your CSV location.Python# Example inside the script
 file_path = "path/to/your/data_file.csv"
-  # Run the script:Bashpython analysis_script.py
+# Run the script:Bashpython analysis_script.py
 ## Methodology & Assumptions
 Time to Activate: The script assumes the dataset is sorted or ordered chronologically. I
 t calculates "Time to Activate" by measuring the time difference between a row marked INACTIVE and the immediately following row,
